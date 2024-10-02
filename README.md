@@ -1,5 +1,6 @@
-# Hola 💬
+# Hello 💬
 ![CISCO](https://github.com/user-attachments/assets/07aaf480-97d1-40b8-b829-ce134a41fc62).
+
 
 Soy un estudiante de la carrera de ingeniería de sistemas, interesado en los trabajos de telecomunicaciones.
 
