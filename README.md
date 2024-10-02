@@ -1,5 +1,5 @@
 # Hello 💬
-![CISCO](https://github.com/user-attachments/assets/07aaf480-97d1-40b8-b829-ce134a41fc62).
+![CISCOFINAL](https://github.com/user-attachments/assets/090dc903-cbe8-496d-9870-9c86292c047d).
 
 
 Soy un estudiante de la carrera de ingeniería de sistemas, interesado en los trabajos de telecomunicaciones.
